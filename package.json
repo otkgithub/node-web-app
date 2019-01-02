@@ -1,0 +1,14 @@
+{
+  "name": "docker-web-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "shashi hosur <shashi_sekharh@yahoo.co.in\">",
+  "license": "MIT",
+  "description": "Node.js on Docker",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
